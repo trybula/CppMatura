@@ -1,0 +1,12 @@
+site_name: CPP Recap
+theme: readthedocs
+nav:
+- Home: index.md
+- Syntax: syntax.md
+- Zmienne: zmienne.md
+- 'Podstawowe komendy': podstawowe_komendy.md
+- Funkcje: funkcje.md
+- 'Pętle': 'pętle.md'
+- Pliki: pliki.md
+- 'Koncepty programistyczne': koncepty_programistyczne.md
+
